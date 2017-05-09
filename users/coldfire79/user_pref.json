@@ -1,44 +1,44 @@
 {
-  "tests" : {
-    "col" : {
-      "metadata" : {
-        "name" : "metadata.tsv",
-        "sha" : "d5dfeefacdb4d0ed1b575d4f12d1fdb85f17d42b"
+  "tests": {
+    "col": {
+      "metadata": {
+        "name": "metadata.tsv",
+        "sha": "d5dfeefacdb4d0ed1b575d4f12d1fdb85f17d42b"
       },
-      "script" : {
-        "name" : "test_samples.r",
-        "sha" : null
+      "script": {
+        "name": "test_samples.r",
+        "sha": null
       },
-      "custom" : [ ]
+      "custom": []
     },
-    "row" : {
-      "geneset" : {
-        "name" : "genesets.RData",
-        "sha" : "5684ec8aad2a6af6119449dc3341d6231ab97680"
+    "row": {
+      "geneset": {
+        "name": "genesets.RData",
+        "sha": "5684ec8aad2a6af6119449dc3341d6231ab97680"
       },
-      "script" : {
-        "name" : "test_molecules.r",
-        "sha" : "f458c5985b3b05301a8c896b37662d9e4c5c8ad6"
+      "script": {
+        "name": "test_molecules.r",
+        "sha": "f458c5985b3b05301a8c896b37662d9e4c5c8ad6"
       },
-      "background" : {
-        "name" : "background.csv",
-        "sha" : "ffa2166c843cf58b48d6ef2f0e83103ec81b4ddf"
+      "background": {
+        "name": "background.csv",
+        "sha": "ffa2166c843cf58b48d6ef2f0e83103ec81b4ddf"
       }
     }
   },
-  "dataset" : {
-    "matrix" : {
-      "name" : "matrix.csv",
-      "sha" : "e2ca5f6f47f0689b2ddc1ae64ec2b2815fa45ed3"
+  "dataset": {
+    "matrix": {
+      "name": "matrix.csv",
+      "sha": "e2ca5f6f47f0689b2ddc1ae64ec2b2815fa45ed3"
     },
-    "col" : {
-      "name" : "dendro_col.json",
-      "sha" : "832d19daf0bfd22060370a9f0708d8ef5c2f598b"
+    "col": {
+      "name": "dendro_col.json",
+      "sha": "832d19daf0bfd22060370a9f0708d8ef5c2f598b"
     },
-    "row" : {
-      "name" : "dendro_row.json",
-      "sha" : "52fd8dcd47396aa13c1d60de6185cb30c00b5946"
+    "row": {
+      "name": "dendro_row.json",
+      "sha": "b92f12c867d3b44643858d3f4bf70348e174d60b"
     }
   },
-  "recommenders" : null
+  "recommenders": null
 }
